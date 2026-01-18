@@ -71,3 +71,9 @@ export default defineConfig([
   },
 ])
 ```
+
+
+
+# Organize react project
+- https://dev.to/itswillt/folder-structures-in-react-projects-3dp8
+- https://blog.logrocket.com/atomic-design-react-native/
